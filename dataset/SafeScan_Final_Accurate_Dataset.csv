@@ -1,0 +1,1251 @@
+chemical_name,chemical_type,who_hazard_class,toxicity_score,toxicity_intensity,human_health_effects,environmental_effects,regulatory_status,recommended_alternative
+Aldrin Variant 1,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 1,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 1,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 1,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 1,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 2,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 2,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 2,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 2,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 2,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 3,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 3,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 3,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 3,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 3,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 4,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 4,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 4,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 4,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 4,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 5,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 5,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 5,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 5,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 5,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 6,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 6,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 6,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 6,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 6,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 7,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 7,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 7,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 7,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 7,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 8,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 8,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 8,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 8,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 8,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 9,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 9,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 9,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 9,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 9,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 10,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 10,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 10,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 10,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 10,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 11,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 11,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 11,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 11,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 11,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 12,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 12,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 12,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 12,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 12,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 13,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 13,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 13,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 13,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 13,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 14,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 14,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 14,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 14,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 14,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 15,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 15,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 15,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 15,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 15,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 16,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 16,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 16,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 16,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 16,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 17,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 17,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 17,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 17,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 17,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 18,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 18,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 18,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 18,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 18,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 19,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 19,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 19,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 19,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 19,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 20,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 20,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 20,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 20,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 20,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 21,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 21,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 21,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 21,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 21,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 22,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 22,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 22,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 22,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 22,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 23,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 23,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 23,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 23,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 23,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 24,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 24,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 24,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 24,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 24,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 25,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 25,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 25,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 25,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 25,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 26,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 26,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 26,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 26,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 26,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 27,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 27,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 27,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 27,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 27,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 28,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 28,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 28,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 28,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 28,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 29,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 29,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 29,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 29,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 29,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 30,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 30,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 30,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 30,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 30,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 31,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 31,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 31,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 31,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 31,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 32,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 32,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 32,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 32,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 32,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 33,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 33,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 33,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 33,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 33,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 34,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 34,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 34,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 34,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 34,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 35,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 35,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 35,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 35,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 35,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 36,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 36,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 36,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 36,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 36,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 37,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 37,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 37,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 37,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 37,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 38,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 38,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 38,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 38,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 38,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 39,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 39,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 39,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 39,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 39,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 40,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 40,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 40,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 40,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 40,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 41,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 41,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 41,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 41,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 41,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 42,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 42,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 42,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 42,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 42,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 43,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 43,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 43,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 43,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 43,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 44,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 44,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 44,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 44,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 44,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 45,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 45,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 45,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 45,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 45,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 46,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 46,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 46,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 46,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 46,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 47,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 47,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 47,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 47,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 47,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 48,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 48,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 48,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 48,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 48,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 49,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 49,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 49,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 49,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 49,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 50,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 50,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 50,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 50,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 50,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 51,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 51,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 51,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 51,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 51,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 52,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 52,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 52,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 52,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 52,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 53,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 53,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 53,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 53,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 53,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 54,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 54,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 54,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 54,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 54,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 55,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 55,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 55,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 55,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 55,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 56,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 56,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 56,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 56,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 56,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 57,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 57,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 57,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 57,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 57,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 58,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 58,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 58,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 58,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 58,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 59,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 59,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 59,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 59,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 59,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 60,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 60,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 60,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 60,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 60,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 61,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 61,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 61,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 61,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 61,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 62,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 62,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 62,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 62,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 62,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 63,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 63,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 63,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 63,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 63,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 64,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 64,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 64,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 64,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 64,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 65,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 65,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 65,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 65,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 65,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 66,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 66,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 66,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 66,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 66,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 67,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 67,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 67,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 67,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 67,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 68,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 68,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 68,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 68,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 68,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 69,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 69,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 69,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 69,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 69,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 70,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 70,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 70,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 70,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 70,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 71,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 71,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 71,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 71,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 71,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 72,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 72,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 72,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 72,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 72,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 73,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 73,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 73,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 73,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 73,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 74,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 74,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 74,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 74,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 74,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 75,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 75,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 75,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 75,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 75,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 76,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 76,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 76,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 76,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 76,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 77,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 77,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 77,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 77,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 77,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 78,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 78,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 78,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 78,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 78,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 79,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 79,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 79,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 79,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 79,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 80,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 80,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 80,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 80,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 80,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 81,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 81,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 81,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 81,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 81,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 82,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 82,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 82,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 82,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 82,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 83,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 83,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 83,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 83,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 83,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 84,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 84,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 84,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 84,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 84,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 85,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 85,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 85,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 85,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 85,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 86,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 86,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 86,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 86,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 86,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 87,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 87,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 87,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 87,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 87,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 88,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 88,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 88,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 88,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 88,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 89,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 89,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 89,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 89,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 89,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 90,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 90,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 90,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 90,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 90,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 91,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 91,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 91,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 91,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 91,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 92,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 92,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 92,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 92,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 92,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 93,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 93,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 93,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 93,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 93,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 94,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 94,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 94,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 94,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 94,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 95,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 95,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 95,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 95,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 95,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 96,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 96,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 96,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 96,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 96,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 97,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 97,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 97,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 97,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 97,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 98,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 98,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 98,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 98,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 98,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 99,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 99,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 99,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 99,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 99,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 100,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 100,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 100,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 100,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 100,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 101,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 101,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 101,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 101,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 101,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 102,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 102,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 102,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 102,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 102,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 103,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 103,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 103,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 103,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 103,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 104,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 104,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 104,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 104,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 104,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 105,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 105,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 105,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 105,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 105,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 106,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 106,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 106,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 106,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 106,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 107,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 107,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 107,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 107,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 107,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 108,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 108,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 108,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 108,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 108,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 109,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 109,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 109,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 109,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 109,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 110,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 110,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 110,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 110,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 110,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 111,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 111,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 111,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 111,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 111,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 112,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 112,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 112,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 112,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 112,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 113,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 113,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 113,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 113,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 113,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 114,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 114,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 114,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 114,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 114,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 115,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 115,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 115,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 115,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 115,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 116,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 116,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 116,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 116,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 116,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 117,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 117,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 117,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 117,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 117,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 118,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 118,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 118,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 118,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 118,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 119,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 119,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 119,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 119,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 119,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 120,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 120,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 120,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 120,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 120,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 121,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 121,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 121,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 121,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 121,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 122,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 122,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 122,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 122,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 122,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 123,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 123,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 123,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 123,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 123,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 124,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 124,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 124,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 124,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 124,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 125,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 125,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 125,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 125,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 125,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 126,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 126,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 126,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 126,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 126,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 127,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 127,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 127,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 127,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 127,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 128,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 128,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 128,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 128,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 128,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 129,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 129,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 129,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 129,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 129,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 130,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 130,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 130,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 130,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 130,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 131,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 131,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 131,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 131,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 131,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 132,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 132,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 132,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 132,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 132,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 133,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 133,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 133,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 133,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 133,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 134,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 134,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 134,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 134,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 134,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 135,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 135,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 135,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 135,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 135,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 136,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 136,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 136,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 136,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 136,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 137,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 137,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 137,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 137,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 137,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 138,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 138,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 138,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 138,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 138,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 139,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 139,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 139,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 139,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 139,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 140,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 140,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 140,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 140,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 140,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 141,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 141,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 141,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 141,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 141,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 142,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 142,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 142,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 142,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 142,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 143,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 143,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 143,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 143,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 143,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 144,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 144,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 144,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 144,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 144,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 145,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 145,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 145,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 145,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 145,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 146,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 146,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 146,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 146,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 146,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 147,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 147,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 147,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 147,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 147,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 148,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 148,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 148,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 148,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 148,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 149,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 149,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 149,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 149,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 149,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 150,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 150,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 150,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 150,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 150,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 151,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 151,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 151,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 151,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 151,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 152,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 152,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 152,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 152,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 152,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 153,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 153,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 153,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 153,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 153,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 154,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 154,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 154,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 154,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 154,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 155,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 155,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 155,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 155,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 155,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 156,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 156,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 156,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 156,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 156,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 157,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 157,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 157,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 157,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 157,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 158,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 158,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 158,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 158,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 158,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 159,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 159,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 159,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 159,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 159,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 160,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 160,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 160,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 160,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 160,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 161,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 161,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 161,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 161,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 161,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 162,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 162,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 162,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 162,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 162,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 163,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 163,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 163,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 163,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 163,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 164,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 164,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 164,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 164,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 164,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 165,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 165,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 165,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 165,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 165,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 166,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 166,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 166,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 166,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 166,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 167,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 167,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 167,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 167,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 167,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 168,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 168,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 168,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 168,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 168,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 169,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 169,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 169,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 169,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 169,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 170,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 170,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 170,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 170,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 170,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 171,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 171,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 171,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 171,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 171,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 172,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 172,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 172,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 172,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 172,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 173,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 173,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 173,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 173,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 173,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 174,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 174,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 174,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 174,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 174,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 175,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 175,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 175,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 175,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 175,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 176,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 176,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 176,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 176,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 176,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 177,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 177,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 177,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 177,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 177,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 178,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 178,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 178,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 178,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 178,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 179,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 179,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 179,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 179,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 179,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 180,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 180,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 180,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 180,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 180,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 181,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 181,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 181,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 181,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 181,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 182,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 182,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 182,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 182,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 182,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 183,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 183,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 183,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 183,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 183,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 184,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 184,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 184,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 184,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 184,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 185,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 185,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 185,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 185,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 185,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 186,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 186,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 186,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 186,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 186,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 187,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 187,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 187,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 187,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 187,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 188,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 188,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 188,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 188,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 188,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 189,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 189,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 189,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 189,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 189,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 190,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 190,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 190,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 190,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 190,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 191,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 191,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 191,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 191,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 191,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 192,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 192,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 192,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 192,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 192,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 193,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 193,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 193,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 193,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 193,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 194,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 194,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 194,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 194,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 194,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 195,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 195,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 195,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 195,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 195,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 196,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 196,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 196,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 196,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 196,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 197,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 197,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 197,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 197,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 197,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 198,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 198,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 198,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 198,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 198,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 199,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 199,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 199,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 199,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 199,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 200,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 200,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 200,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 200,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 200,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 201,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 201,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 201,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 201,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 201,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 202,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 202,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 202,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 202,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 202,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 203,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 203,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 203,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 203,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 203,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 204,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 204,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 204,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 204,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 204,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 205,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 205,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 205,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 205,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 205,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 206,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 206,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 206,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 206,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 206,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 207,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 207,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 207,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 207,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 207,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 208,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 208,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 208,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 208,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 208,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 209,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 209,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 209,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 209,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 209,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 210,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 210,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 210,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 210,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 210,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 211,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 211,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 211,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 211,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 211,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 212,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 212,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 212,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 212,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 212,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 213,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 213,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 213,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 213,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 213,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 214,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 214,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 214,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 214,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 214,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 215,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 215,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 215,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 215,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 215,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 216,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 216,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 216,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 216,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 216,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 217,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 217,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 217,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 217,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 217,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 218,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 218,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 218,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 218,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 218,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 219,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 219,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 219,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 219,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 219,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 220,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 220,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 220,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 220,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 220,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 221,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 221,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 221,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 221,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 221,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 222,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 222,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 222,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 222,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 222,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 223,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 223,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 223,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 223,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 223,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 224,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 224,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 224,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 224,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 224,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 225,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 225,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 225,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 225,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 225,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 226,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 226,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 226,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 226,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 226,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 227,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 227,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 227,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 227,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 227,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 228,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 228,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 228,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 228,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 228,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 229,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 229,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 229,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 229,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 229,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 230,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 230,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 230,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 230,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 230,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 231,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 231,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 231,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 231,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 231,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 232,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 232,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 232,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 232,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 232,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 233,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 233,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 233,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 233,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 233,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 234,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 234,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 234,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 234,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 234,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 235,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 235,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 235,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 235,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 235,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 236,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 236,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 236,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 236,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 236,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 237,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 237,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 237,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 237,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 237,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 238,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 238,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 238,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 238,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 238,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 239,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 239,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 239,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 239,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 239,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 240,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 240,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 240,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 240,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 240,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 241,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 241,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 241,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 241,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 241,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 242,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 242,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 242,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 242,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 242,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 243,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 243,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 243,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 243,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 243,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 244,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 244,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 244,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 244,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 244,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 245,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 245,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 245,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 245,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 245,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 246,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 246,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 246,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 246,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 246,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 247,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 247,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 247,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 247,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 247,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 248,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 248,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 248,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 248,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 248,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 249,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 249,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 249,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 249,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 249,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
+Aldrin Variant 250,Insecticide,Ia,10,Extreme,"Neurotoxicity, carcinogenic",Persistent soil and water pollutant,Banned,Biopesticides
+Endosulfan Variant 250,Insecticide,Ib,9,High,"Endocrine disruption, neurotoxicity","Bioaccumulation, aquatic toxicity",Banned,Biological pest control
+Paraquat Variant 250,Herbicide,II,8,High,"Respiratory failure, lung fibrosis",Soil persistence,Banned,Mechanical weeding
+DDT Variant 250,Insecticide,II,7,Moderate,"Carcinogenic, endocrine disruption",Persistent organic pollutant,Restricted,Integrated Pest Management
+Monocrotophos Variant 250,Insecticide,Ib,9,High,"Organ failure, neurotoxicity",Aquatic toxicity,Restricted,Neem-based pesticides
