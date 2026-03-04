@@ -1,0 +1,21 @@
+{
+  "accuracy": 1.0,
+  "classes": [
+    "BANNED",
+    "RESTRICTED_HIGH",
+    "RESTRICTED_MODERATE"
+  ],
+  "training_samples": 3000,
+  "test_samples": 750,
+  "features": [
+    "chemical_type",
+    "who_hazard_class",
+    "regulatory_status",
+    "toxicity_score",
+    "crop_sensitivity",
+    "soil_retention",
+    "season_risk",
+    "who_numeric"
+  ],
+  "model": "StackingClassifier (RF + XGBoost + LightGBM -> LogisticRegression)"
+}

@@ -1,0 +1,280 @@
+{
+    "a950b99ffcb9": {
+        "farmer_id": "a950b99ffcb9",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Endosulfan"
+        ],
+        "created_at": "2026-03-02T14:59:26.455159",
+        "updated_at": "2026-03-02T14:59:26.455164"
+    },
+    "9224083ecc0f": {
+        "farmer_id": "9224083ecc0f",
+        "name": "Harpreet",
+        "location": "Punjab",
+        "crop_type": "Wheat",
+        "soil_type": "Sandy Loam",
+        "season": "Rabi",
+        "pesticides_used": [],
+        "created_at": "2026-03-02T14:59:32.133898",
+        "updated_at": "2026-03-02T14:59:32.133901"
+    },
+    "211d1d3570a3": {
+        "farmer_id": "211d1d3570a3",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Endosulfan"
+        ],
+        "created_at": "2026-03-02T15:03:38.350778",
+        "updated_at": "2026-03-02T15:03:38.350783"
+    },
+    "22304107638f": {
+        "farmer_id": "22304107638f",
+        "name": "Harpreet",
+        "location": "Punjab",
+        "crop_type": "Wheat",
+        "soil_type": "Sandy Loam",
+        "season": "Rabi",
+        "pesticides_used": [],
+        "created_at": "2026-03-02T15:03:42.353903",
+        "updated_at": "2026-03-02T15:03:42.353906"
+    },
+    "f9545a420e95": {
+        "farmer_id": "f9545a420e95",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Aldrin"
+        ],
+        "created_at": "2026-03-02T15:04:53.640514",
+        "updated_at": "2026-03-02T15:04:53.640516"
+    },
+    "70a0a37adb88": {
+        "farmer_id": "70a0a37adb88",
+        "name": "Harpreet",
+        "location": "Punjab",
+        "crop_type": "Wheat",
+        "soil_type": "Sandy Loam",
+        "season": "Rabi",
+        "pesticides_used": [],
+        "created_at": "2026-03-02T15:04:56.517644",
+        "updated_at": "2026-03-02T15:04:56.517652"
+    },
+    "1cabdf23c453": {
+        "farmer_id": "1cabdf23c453",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Aldrin"
+        ],
+        "created_at": "2026-03-02T15:05:47.316772",
+        "updated_at": "2026-03-02T15:05:47.316774"
+    },
+    "d7edacc3dfcb": {
+        "farmer_id": "d7edacc3dfcb",
+        "name": "Harpreet",
+        "location": "Punjab",
+        "crop_type": "Wheat",
+        "soil_type": "Sandy Loam",
+        "season": "Rabi",
+        "pesticides_used": [],
+        "created_at": "2026-03-02T15:05:50.505988",
+        "updated_at": "2026-03-02T15:05:50.505993"
+    },
+    "101": {
+        "farmer_id": "101",
+        "name": "akjnadc",
+        "location": "kochi",
+        "crop_type": "apple",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-02T23:32:31.761141",
+        "updated_at": "2026-03-02T23:32:31.763088"
+    },
+    "ec2e8665ad0b": {
+        "farmer_id": "ec2e8665ad0b",
+        "name": "lee",
+        "location": "kochi",
+        "crop_type": "apple",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-03T00:06:46.993982",
+        "updated_at": "2026-03-03T00:06:46.993989"
+    },
+    "d7f42d00eb0d": {
+        "farmer_id": "d7f42d00eb0d",
+        "name": "lee",
+        "location": "kochi",
+        "crop_type": "wheat",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "Paraquat"
+        ],
+        "created_at": "2026-03-03T16:57:42.752146",
+        "updated_at": "2026-03-03T16:57:42.752153"
+    },
+    "1592b9c8c9dc": {
+        "farmer_id": "1592b9c8c9dc",
+        "name": "arun",
+        "location": "tamilnadu",
+        "crop_type": "wheat",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-03T23:22:50.842422",
+        "updated_at": "2026-03-03T23:22:50.842436"
+    },
+    "61ad4243fcf4": {
+        "farmer_id": "61ad4243fcf4",
+        "name": "arun",
+        "location": "kerala",
+        "crop_type": "wheat",
+        "soil_type": "clayey",
+        "season": "rabi",
+        "pesticides_used": [
+            "DDT"
+        ],
+        "created_at": "2026-03-04T00:07:15.221087",
+        "updated_at": "2026-03-04T00:07:15.221108"
+    },
+    "92c73913b4ed": {
+        "farmer_id": "92c73913b4ed",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Aldrin"
+        ],
+        "created_at": "2026-03-04T08:51:22.498645",
+        "updated_at": "2026-03-04T08:51:22.498651"
+    },
+    "8ef9dbea8fa1": {
+        "farmer_id": "8ef9dbea8fa1",
+        "name": "Raju",
+        "location": "Tamil Nadu",
+        "crop_type": "Rice",
+        "soil_type": "Clay",
+        "season": "Kharif",
+        "pesticides_used": [
+            "Aldrin"
+        ],
+        "created_at": "2026-03-04T08:53:39.640298",
+        "updated_at": "2026-03-04T08:53:39.640308"
+    },
+    "23a6cc36da1e": {
+        "farmer_id": "23a6cc36da1e",
+        "name": "sjxnen",
+        "location": "kerala",
+        "crop_type": "wheat",
+        "soil_type": "sandy",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-04T09:01:11.430671",
+        "updated_at": "2026-03-04T09:01:11.430720"
+    },
+    "c6f640f8955d": {
+        "farmer_id": "c6f640f8955d",
+        "name": "ajdbddn",
+        "location": "kochi",
+        "crop_type": "rice",
+        "soil_type": "clayey",
+        "season": "kharif",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-04T10:09:10.049208",
+        "updated_at": "2026-03-04T10:09:10.049333"
+    },
+    "59c811f7d929": {
+        "farmer_id": "59c811f7d929",
+        "name": "ajdbddn",
+        "location": "kochi",
+        "crop_type": "rice",
+        "soil_type": "",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-04T09:39:35.920351",
+        "updated_at": "2026-03-04T09:39:35.920365"
+    },
+    "a46e606a3a24": {
+        "farmer_id": "a46e606a3a24",
+        "name": "dusnnx",
+        "location": "kerala",
+        "crop_type": "rice",
+        "soil_type": "clayey",
+        "season": "kharif",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-04T10:13:54.131606",
+        "updated_at": "2026-03-04T10:13:54.131615"
+    },
+    "636d968c01fd": {
+        "farmer_id": "636d968c01fd",
+        "name": "jgvrj",
+        "location": "kochi",
+        "crop_type": "wheat",
+        "soil_type": "clayey",
+        "season": "rabi",
+        "pesticides_used": [
+            "DDT"
+        ],
+        "created_at": "2026-03-04T10:34:28.352507",
+        "updated_at": "2026-03-04T10:34:28.352535"
+    },
+    "a7a2457853d9": {
+        "farmer_id": "a7a2457853d9",
+        "name": "sjxbsn",
+        "location": "kerala",
+        "crop_type": "jowar",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "aldrin"
+        ],
+        "created_at": "2026-03-04T10:46:43.035559",
+        "updated_at": "2026-03-04T10:46:43.035577"
+    },
+    "59c99070be34": {
+        "farmer_id": "59c99070be34",
+        "name": "ahdbx",
+        "location": "kerala",
+        "crop_type": "rice",
+        "soil_type": "loamy",
+        "season": "rabi",
+        "pesticides_used": [
+            "DDT"
+        ],
+        "created_at": "2026-03-04T14:05:59.176444",
+        "updated_at": "2026-03-04T14:05:59.176457"
+    }
+}
